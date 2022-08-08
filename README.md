@@ -8,10 +8,12 @@
  
  3- [2,6,16,18,22,27]
  
+ ______________________________________________
  
  ~ Big-O gosterimi; 
         O(n²)
  
+ ______________________________________________
  
  ~ Time Complexity;
  
@@ -23,6 +25,7 @@
  
  Dizi siralandiktan sonra 18 sayisi average case kapsamina girer.
  
+ ______________________________________________
  
  ~ [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a gore ilk 4 adimi
  
